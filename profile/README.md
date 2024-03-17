@@ -1,11 +1,17 @@
 # CloudOps Automator
 
-![cloud](https://github.com/VbhvCloud/.github/assets/49318838/f7ac5382-e34d-4bfb-bebe-0e489b45cdeb)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF)](https://www.packer.io/)
+[![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)](https://aws.amazon.com/dynamodb/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Mailgun](https://img.shields.io/badge/Mailgun-blue?style=for-the-badge&logo=Mailgun&logoColor=red&color=%23F0FFFF)](https://www.mailgun.com)
 
-
-# AWS Infrastructure & Web Application Suite
 
 This suite comprises a collection of repositories that together facilitate the deployment of a secure, scalable, and highly available web application on AWS. Leveraging Terraform for infrastructure automation, AWS Lambda for serverless operations, and Django for web application development, this project provides an end-to-end solution for modern cloud-native application deployment and management.
+
+![cloud](https://github.com/VbhvCloud/.github/assets/49318838/f7ac5382-e34d-4bfb-bebe-0e489b45cdeb)
 
 ## Key Features
 
