@@ -14,6 +14,7 @@ This suite comprises a collection of repositories that together facilitate the d
 - **Django RESTful API**: A Django-based backend offers a RESTful API for user and product management, supporting operations such as registration, login, and CRUD operations for product data, with AWS S3 integration for file storage.
 - **Security and Scalability**: Includes configurations for autoscaling, load balancing, security groups, and IAM roles to ensure application scalability and security.
 - **Comprehensive Deployment Scripts**: Provides scripts for deploying the Lambda function, managing database migrations, and automating AWS infrastructure setup and teardown.
+- **Monitoring and Logging**: The Monitoring and Logging directory contains configurations for monitoring application health and performance using AWS CloudWatch. CloudWatch is integrated with CloudWatch Logs for centralized log management and analysis, enabling effective monitoring and troubleshooting.
 
 ## Components
 
@@ -35,13 +36,6 @@ To deploy this suite:
 - **Event-Driven Email Notifications**: Automate email sending for user actions or system alerts.
 - **Web Application Backend**: Deploy a scalable and secure backend for handling user and product data.
 
-## License
 
-This project is open-sourced under the MIT License. See the LICENSE file in each repository for more details.
-
-## 8. Monitoring and Logging
-
-The Monitoring and Logging directory contains configurations for monitoring application health and performance using AWS CloudWatch. CloudWatch is integrated with CloudWatch Logs for centralized log management and analysis, enabling effective monitoring and troubleshooting.
-
-Feel free to explore each directory to gain insights into the CloudOps Automation Platform and leverage its capabilities for efficient cloud infrastructure management and deployment. If you have any questions or need assistance, please don't hesitate to reach out to the project maintainers. Happy automating!
+Feel free to explore each directory to gain insights into the CloudOps Automator and leverage its capabilities for efficient cloud infrastructure management and deployment. If you have any questions or need assistance, please don't hesitate to reach out to the project maintainers. Happy automating!
 
