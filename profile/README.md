@@ -1,5 +1,8 @@
 # CloudOps Automation Platform
 
+![cloud](https://github.com/VbhvCloud/.github/assets/49318838/f7ac5382-e34d-4bfb-bebe-0e489b45cdeb)
+
+
 Welcome to the CloudOps Automation Platform repository! This repository hosts a comprehensive solution designed to streamline and automate various aspects of cloud infrastructure provisioning, deployment, and management. Below, you'll find detailed information about each component of the platform:
 
 ## 1. Terraform Configuration
